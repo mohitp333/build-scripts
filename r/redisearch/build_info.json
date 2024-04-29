@@ -1,5 +1,5 @@
 {
-  "maintainer": "Vinod.K1@ibm.com",
+  "maintainer": "vinodk99",
   "package_name": "redisearch",
   "github_url": "https://github.com/RediSearch/RediSearch",
   "version": "v2.8.13",
@@ -17,7 +17,7 @@
     "dir": "2.4.16-ubi8"
   },
   "v2.*.*": {
-     "dir": "2.8.13_ubi9",
-      "build_script": "redisearch_ubi_9.3.sh"
-    }
+    "dir": "2.8.13_ubi9",
+    "build_script": "redisearch_ubi_9.3.sh"
+  }
 }
